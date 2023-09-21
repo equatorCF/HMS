@@ -146,7 +146,7 @@
           </div>
           <div class="col-lg-6 wow fadeInRight" data-wow-delay="700ms">
             <div class="img-place custom-img-1">
-              <img src="../assets/img/doctors/stan.png" alt="">
+              <img src="../assets/img/mbatha.png" alt="">
             </div>
           </div>
         </div>

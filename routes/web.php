@@ -1,4 +1,4 @@
-<?php
+  <?php
 
 use Illuminate\Support\Facades\Route;
 
@@ -29,4 +29,5 @@ Route::middleware([
     return view('dashboard');
 })->name('dashboard');
 Route::get('/add_doctor_view',[AdminController::class,'addView']);
+Route::post('/upload_doctor',[AdminController::class,'upload']);
 
